@@ -1,0 +1,28 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview"
+  },
+  "devDependencies": {
+    "@nuxtjs/tailwindcss": "^4.0.3",
+    "nuxt": "^3.13.0",
+    "prisma": "^3.14.0"
+  },
+  "dependencies": {
+    "@headlessui/vue": "^1.6.5",
+    "@heroicons/vue": "^1.0.6",
+    "@prisma/client": "^3.14.0",
+    "@tailwindcss/forms": "^0.3.4",
+    "bcrypt": "^5.0.1",
+    "cloudinary": "^1.30.0",
+    "formidable": "^2.0.1",
+    "human-time": "^0.0.2",
+    "jsonwebtoken": "^9.0.2",
+    "jwt-decode": "^3.1.2",
+    "mitt": "^3.0.0",
+    "url-pattern": "^1.0.3"
+  }
+}
